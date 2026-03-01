@@ -62,6 +62,5 @@ This work demonstrates that parameter-efficient fine-tuning (PEFT) of a 7B param
 
 ##  Quick Links
 *  **[Live Interactive Demo (HF Spaces)](#)** *(https://huggingface.co/spaces/Rodina222/elite-fleet-dispatcher)*
-*  **[Model Weights on Hugging Face](https://huggingface.co/Rodina222/elite-fleet-qwen-7b)**
 *  **[Video Demonstration](#)** *()*
 *  **[1-Page Technical Report](#)** *()*
